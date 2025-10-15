@@ -1,0 +1,2 @@
+cd ~/PhpStormProjects/CloudAppHW/frontend-vue
+npm run dev -- --host 0.0.0.0
