@@ -1,2 +1,0 @@
-mysql -u cloudapp_user -p
--- 系統會提示您輸入密碼，請輸入：mypassword

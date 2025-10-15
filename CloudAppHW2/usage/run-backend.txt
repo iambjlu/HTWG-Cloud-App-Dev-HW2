@@ -1,2 +1,0 @@
-cd ~/PhpStormProjects/CloudAppHW/backend-api
-node server.js

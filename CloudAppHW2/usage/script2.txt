@@ -1,6 +1,0 @@
-
-CREATE DATABASE travel_app_db;
-CREATE USER 'cloudapp_user'@'localhost' IDENTIFIED BY 'mypassword';
-GRANT ALL PRIVILEGES ON travel_app_db.* TO 'cloudapp_user'@'localhost';
-FLUSH PRIVILEGES;
-EXIT;

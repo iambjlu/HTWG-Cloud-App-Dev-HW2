@@ -1,2 +1,0 @@
-nohup bash -c 'cd ~/PhpStormProjects/CloudAppHW/backend-api && node server.js' >/tmp/backend.log 2>&1 &
-nohup bash -c 'cd ~/PhpStormProjects/CloudAppHW/frontend-vue && npm run dev -- --host 0.0.0.0' >/tmp/frontend.log 2>&1 &
